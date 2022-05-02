@@ -1,0 +1,27 @@
+.card {
+  cursor: pointer;
+}
+.cardImage {
+  height: 150px;
+}
+.logo {
+  height: 100px;
+  background-color: rgb(6, 6, 112);
+}
+.title {
+  background-color: rgb(6, 6, 112);
+  color: white;
+  width: fit-content;
+}
+.homeFirstTopCard {
+  cursor: pointer;
+  flex: 2;
+}
+.homeTopCards {
+  cursor: pointer;
+  flex: 1;
+}
+.sportCards {
+  cursor: pointer;
+  flex: 1;
+}

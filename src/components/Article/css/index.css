@@ -1,0 +1,24 @@
+.bookmark {
+  background-color: rgb(6, 6, 112);
+  color: white;
+  cursor: pointer;
+}
+.time {
+  font-size: 12px;
+  font-weight: bold;
+}
+.webTitle {
+  font-size: 30px;
+  font-weight: bold;
+}
+.headline {
+  font-size: 20px;
+  font-weight: bold;
+}
+.articleLogoImage {
+  height: 200px;
+  background-color: rgb(6, 6, 112);
+}
+.articleThumbnailImage {
+  height: 200px;
+}

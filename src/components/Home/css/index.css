@@ -1,0 +1,25 @@
+.firstSection {
+  display: flex;
+}
+.topStories {
+  padding: 20px;
+  margin-left: 100px;
+  margin-right: 300px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.bookmarks {
+  padding: 20px;
+  margin-right: 300px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: rgb(6, 6, 112);
+  color: white;
+}
+.viewBookmarkText {
+  margin-left: 10px;
+}
+.sports {
+  display: flex;
+}

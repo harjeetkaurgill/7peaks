@@ -1,0 +1,22 @@
+.nav {
+  overflow: hidden;
+  display: flex;
+  background-color: rgb(6, 6, 112);
+}
+.logoArea {
+  padding: 20px;
+  margin-left: 100px;
+}
+.logoImg {
+  height: 50px;
+}
+.searchArea {
+  margin-left: 200px;
+}
+input:focus {
+  background-color: rgb(124, 124, 175);
+  color: white;
+}
+::placeholder {
+  color: white;
+}
